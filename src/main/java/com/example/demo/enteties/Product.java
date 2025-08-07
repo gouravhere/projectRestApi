@@ -1,7 +1,7 @@
 package com.example.demo.enteties;
 
 import jakarta.persistence.Entity;
-
+//commit
 @Entity
 public class Product {
 
